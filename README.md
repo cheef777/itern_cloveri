@@ -54,4 +54,4 @@ where likes>0
 
 Работа находится на [GitHub]()
 Дамп базы данных на [GooglDrive]()
-Таблицы на [GooglDrive]()
+Таблицы на [GooglDrive]()# itern_cloveri
