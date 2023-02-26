@@ -53,5 +53,7 @@ where likes>0
 
 
 Работа находится на [GitHub](https://github.com/cheef777/itern_cloveri)
+
 Дамп базы данных на [GooglDrive](https://drive.google.com/file/d/14Pt6NuPe96izlIRf_H0HlhUaoh033-Tr/view?usp=sharing)
+
 Таблицы на [GooglDrive](https://drive.google.com/drive/folders/14MIobMRW4JQM7hyhX7ZTHes7Yqq7jKve?usp=sharing)
