@@ -52,6 +52,6 @@ where likes>0
 ```
 
 
-Работа находится на [GitHub]()
+Работа находится на [GitHub](https://github.com/cheef777/itern_cloveri)
 Дамп базы данных на [GooglDrive]()
 Таблицы на [GooglDrive]()# itern_cloveri
